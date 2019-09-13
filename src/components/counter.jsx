@@ -14,7 +14,7 @@ class Counter extends Component {
             <br/>
         </React.Fragment>
         )
-    }
+    } 
 
     getBadgeClasses() {
         let classes = "badge m-4 badge-";
